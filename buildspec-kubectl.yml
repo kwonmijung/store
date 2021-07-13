@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "store"
+    _PROJECT_NAME: "user05-store"
 
 phases:
   install:
